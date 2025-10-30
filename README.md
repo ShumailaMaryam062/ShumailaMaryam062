@@ -1,13 +1,10 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://github.com/ShumailaMaryam062/ShumailaMaryam062/blob/main/banner.png" alt="Shumaila Maryam Banner" width="100%">
-</p>
+
 
 <h1 align="center">👋 Hi, I'm <span style="color:#ff69b4;">Shumaila Maryam</span></h1>
 
 <p align="center">
   🌸 <strong>Data Science Student</strong> | 💻 <strong>Flutter Developer</strong> | 📊 <strong>Problem Solver</strong><br>
-  <em>"Bridging data and design — creating intelligent and impactful solutions."</em>
+  <em>"Bridging data and design  creating intelligent and impactful solutions."</em>
 </p>
 
 ---

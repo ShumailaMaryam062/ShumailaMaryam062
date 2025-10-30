@@ -57,17 +57,6 @@
 
 ---
 
-### 🚀 Projects & Highlights
-
-| 📁 Project | 💡 Description | 🧰 Tools |
-|-------------|----------------|-----------|
-| **Student Performance Analysis** | Analyzed student data to predict performance trends | Python, Pandas, Matplotlib |
-| **Flutter To-Do App** | Simple mobile app for managing daily tasks | Flutter, Dart, Firebase |
-| **Sales Data Dashboard** | Interactive visualization dashboard for sales metrics | Python, Seaborn, Plotly |
-| **ML Model for Iris Dataset** | Classification model using Logistic Regression | Scikit-learn, NumPy |
-
----
-
 ### 🌐 Connect With Me
 
 <p align="center">

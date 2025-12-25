@@ -70,17 +70,10 @@
 
 ### 📊 GitHub Insights
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ShumailaMaryam062&show_icons=true&theme=radical&cache_seconds=86400"
-    alt="GitHub Stats"
-  />
-  <br/>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ShumailaMaryam062&theme=radical&cache_seconds=86400"
-    alt="GitHub Streak"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShumailaMaryam062&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ShumailaMaryam062&theme=radical)
+
 
 
 ---

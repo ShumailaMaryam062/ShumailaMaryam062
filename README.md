@@ -70,9 +70,10 @@
 
 ### 📊 GitHub Insights
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShumailaMaryam062&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ShumailaMaryam062&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShumailaMaryam062&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ShumailaMaryam062)
 
 
 

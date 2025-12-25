@@ -71,9 +71,17 @@
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShumailaMaryam062&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShumailaMaryam062&theme=radical" height="150"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ShumailaMaryam062&show_icons=true&theme=radical&cache_seconds=86400"
+    alt="GitHub Stats"
+  />
+  <br/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ShumailaMaryam062&theme=radical&cache_seconds=86400"
+    alt="GitHub Streak"
+  />
 </p>
+
 
 ---
 

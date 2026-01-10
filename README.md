@@ -11,7 +11,7 @@
 
 ### 🌟 About Me
 
-- 🎓 **Software Engineering Student** passionate about **Data Science** and **App Development**
+- 🎓 **Data Science Student** passionate about **Data Science** and **App Development**
 - 💡 I love combining **data-driven insights** with **creative UI designs**
 - 📊 Currently learning **Machine Learning**, **Data Visualization**, and **Flutter**
 - 🧠 Skilled in **Python**, **Pandas**, **NumPy**, **Scikit-learn**, **Matplotlib**, **SQL**, and **Flutter**
